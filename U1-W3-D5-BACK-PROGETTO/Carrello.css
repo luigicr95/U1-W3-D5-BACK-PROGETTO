@@ -1,0 +1,10 @@
+﻿body {
+}
+
+.card-img {
+    width: 150px;
+    height: 100px;
+    object-fit:cover;
+    margin-left: 5px;
+    object-position: top;
+}
